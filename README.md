@@ -1,4 +1,4 @@
-# Weather Widget Challenge - Freedome
+# Weather Widget Challenge 
 
 Questa è la mia soluzione per la prova tecnica di Freedome. Si tratta di un widget meteo interattivo che permette di visualizzare il meteo attuale e le previsioni orarie e giornaliere.
 
@@ -28,4 +28,5 @@ Il widget attualmente supporta lo swipe touch e la navigazione tramite tastiera.
 3. Apri `index.html` nel tuo browser.
 
 ---
+
 Sviluppato da: [@Raffa134-dev]
