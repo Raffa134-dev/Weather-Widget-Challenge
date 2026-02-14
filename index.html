@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather Widget Challenge</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="widget-container">
+      <div class="swipe-wrapper" id="swipeWrapper">
+        <div class="view" id="currentView">
+          <h2 id="cityName">City</h2>
+
+          <div class="main-info">
+            <img id="currentIcon" src="" alt="" />
+            <div class="temp-wrapper">
+              <span id="currentTemp">0</span><span class="unit">°</span>
+            </div>
+          </div>
+
+          <p id="currentDesc">...</p>
+        </div>
+
+        <div class="view" id="hourlyView">
+          <h3 style="margin-bottom: 10px">Prossime ore</h3>
+          <div class="list-container" id="hourlyList"></div>
+        </div>
+
+        <div class="view" id="dailyView">
+          <h3 style="margin-bottom: 10px">Prossimi 5 giorni</h3>
+          <div class="list-container" id="dailyList"></div>
+        </div>
+      </div>
+
+      <div class="dots-container">
+        <div class="dot active"></div>
+        <div class="dot"></div>
+        <div class="dot"></div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
