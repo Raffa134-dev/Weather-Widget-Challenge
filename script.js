@@ -84,3 +84,4 @@ scrollWrapper.addEventListener("scroll", () => {
 
 // Avvio la funzione
 getWeather();
+
