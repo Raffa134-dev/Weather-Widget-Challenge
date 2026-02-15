@@ -24,9 +24,10 @@ Il widget attualmente supporta lo swipe touch e la navigazione tramite tastiera.
 
 ## Come avviarlo
 1. Clona la repository.
-2. Inserisci una chiave valida in `main.js`.
+2. Inserisci una chiave valida in `script.js`.
 3. Apri `index.html` nel tuo browser.
 
 ---
 
 Sviluppato da: [@Raffa134-dev]
+
