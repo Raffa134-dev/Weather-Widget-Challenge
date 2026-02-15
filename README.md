@@ -29,5 +29,6 @@ Il widget attualmente supporta lo swipe touch e la navigazione tramite tastiera.
 
 ---
 
-Sviluppato da: [@Raffa134-dev]
+Sviluppato da: @Raffa134-dev
+
 
