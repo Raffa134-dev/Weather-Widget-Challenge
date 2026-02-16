@@ -25,7 +25,7 @@ body {
   overflow: hidden;
 }
 
-/* SWIPEEEEEE */
+/* SWIPE */
 .swipe-wrapper {
   display: flex;
   height: 100%;
@@ -107,7 +107,7 @@ body {
   width: 30px;
 }
 
-/* Dots con SWIPEEEEE */
+/* Dots con SWIPEE */
 .dots-container {
   position: absolute;
   bottom: 20px;
